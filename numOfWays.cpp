@@ -1,4 +1,4 @@
-// Number of ways in a grid of NxM from (1,1) to (N,M)
+// Number of ways in a grid of NxM from (1,1) to (N,M) using Recursion
 #include "<bits stdc++>.h" // Make sure to use <bits/stdc++.h> since mine is a local header file
 using namespace std;
 int n,m;
